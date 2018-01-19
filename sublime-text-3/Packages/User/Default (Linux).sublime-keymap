@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+i"], "command": "reindent"} //Vérifiez que Ctrl+I n’est pas utilisé, sinon remplacez le dans Key Bidings – Default.
+]
